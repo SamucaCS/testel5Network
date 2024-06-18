@@ -1,42 +1,30 @@
-![Jornada Milhas](thumbnail.png)
+Teste L5 networks: Onde foi feito um varias telas usando o html e css e angular
 
-# Jornada Milhas
+1 passo: clonar o projeto git clone https://github.com/SamucaCS/testel5Network.git
+2 passo: cd testel5Network
+3 passo: npm install
+4 passo: ng serve
+e vai direcionado para o http://localhost:4200/
 
-O Jornada Milhas é uma StartUP. 
-Nesse momento, é um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
-
-<img src="screenshot.png" alt="Imagem do Jornada Milhas" width="50%">
+Ola me chamo Samuel Carvalho da silva, eu tenho 23 anos, e eu estou realizando o test da L5 networks onde o teste era para criar um site de e-commerce.
+(peços desculpas por não usar a api solicitada eu tentei esboçar um projeto do 0 e autentico algo novo para surpreende vocês, peço que se gostarem do meu teste e quiserem saber mais eu estou disponivel, eu amei ter que fazer algo do 0 realizando a api de jornada milhas disponibilziada pelo alura, eu vou encaminhar meu email: Samuel.plenitude12@gmail.com, caso queiram conversar e entender melhor o projeto lançado, sinto que eu estou preparado para essa nova etapa da minha vida, abs. Samuel :)
 
 
-## 🔨 Funcionalidades do projeto
+imagens
+![header](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/b2587a37-a120-4b20-867d-96d561fae431) <-- header 
 
-Nesse primeiro momento, nós temos a página que foi idealizada como a primeiro entrega do time de desenvolvimento.
+![promoções](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/47ad2741-e15a-4db0-a9af-c06464f68a08) <-- card promoções 
 
-Durante o curso, nós vamos desenvolver o controle do formulário de busca. 
-O desafio é criar um componente que é controlado por um FormControl e centralizar o controle de estado do formulário de busca, onde temos parte dentro do formulário e parte dentro da modal.
+![depoimentos e banner](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/7e29a8d3-8448-4726-9c55-965b9e0bd6f8) <-- depoimentos e banner
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/SI696t31Q9zlsXKttCoqKP/Angular%3A-Componentização-e-Design-com-Angular-Material-%7C-Jornada-Milhas?type=design&node-id=4-6408&mode=design&t=mmbAh5QEafSRIGqQ-0).
+![footer](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/203ef754-f034-42c6-ac75-68b049dab23e) <-- footer
 
-## ✔️ Técnicas e tecnologias utilizadas
+![viajante](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/cb2675ba-e50e-4ed3-933b-081a1b27a329) <-- botões para adcionar adultos crianças e bebes
 
-Se liga nessa lista de tudo que usaremos nesse curso:
+![filtro](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/9e3c4f55-85fd-4e88-a045-f2cf34df664f) <-- filtragens de qual a avião se gostaria de conexões ou voo direto
 
-- `Angular`
-- `Angular CLI`
-- `Angular Material`
-- `Figma`
+![console.log](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/7b00c7d3-0627-4397-b2d0-08f845947c8d) <-- foto de como fica o console log
 
-E muito mais!
+![cadastro](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/0b48f4c0-7943-40ad-ab09-1c894ffff99d) <-- tela de cadatro
 
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `ng serve` para iniciar o projeto.
-
-Depois, acesse <a href="http://localhost:4200/">http://localhost:4200/</a> no seu navegador.
-
-O backend utilizado você encontra [aqui](https://github.com/viniciosneves/jornada-milhas-api).
-
-## 📚 Mais informações do curso
-
-O Jornada Milhas é uma StartUP fictícia utilizada nesse curso da Alura.
-A ideia principal desse curso é evoluir ainda mais os conhecimentos em Angular e estilização de componentes.
+![login](https://github.com/SamucaCS/Teste-L5-networks/assets/122119579/16bd5d9a-d8b6-47ea-b4cc-a0acbccdf923) <-- tela de login
