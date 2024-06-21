@@ -41,3 +41,7 @@ imagens
 <-- tela do usuario
 ![tela do usuario](https://github.com/SamucaCS/testel5Network/assets/122119579/0bbf55ea-bb2f-4338-a6eb-2644dbe0738d)
 
+<-- tela de busca
+![busca](https://github.com/SamucaCS/testel5Network/assets/122119579/80269a0f-1d32-4477-a8f5-bc9c4888918d)
+
+
