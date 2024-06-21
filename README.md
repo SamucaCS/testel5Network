@@ -5,6 +5,7 @@ Teste L5 networks: Onde foi feito um varias telas usando o html e css e angular
 3 passo: npm install
 4 passo: ng serve
 e vai direcionado para o http://localhost:4200/
+para acessar a busca coloque http://localhost:4200/busca
 
 Ola me chamo Samuel Carvalho da silva, eu tenho 23 anos, e eu estou realizando o test da L5 networks onde o teste era para criar um site de e-commerce.
 (peços desculpas por não usar a api solicitada eu tentei esboçar um projeto do 0 e autentico algo novo para surpreende vocês, peço que se gostarem do meu teste e quiserem saber mais eu estou disponivel, eu amei ter que fazer algo do 0 realizando a api de jornada milhas disponibilziada pelo alura, eu vou encaminhar meu email: Samuel.plenitude12@gmail.com, caso queiram conversar e entender melhor o projeto lançado, sinto que eu estou preparado para essa nova etapa da minha vida, abs. Samuel :)
